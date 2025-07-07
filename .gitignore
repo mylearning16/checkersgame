@@ -1,3 +1,6 @@
+.DS_Store
+.mvn/
+.settings/
 target/
 pom.xml.tag
 pom.xml.releaseBackup
